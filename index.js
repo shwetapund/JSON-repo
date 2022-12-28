@@ -56,7 +56,7 @@ students.forEach((student)=>{
 */
 const courses = [ 
     {
-    title: 'jaascript',
+    title: 'javascript',
     price: 1000,
     instructor: "suraj",
     duration: "2 Months",
